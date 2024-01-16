@@ -50,8 +50,10 @@ else
     echo "WARNING: dolphin is not installed..."
 fi
 
+# brightness script
+chmod +x $scrDir/kblight.py
+
+
 
 # shell
 ./restore_shl.sh ${getShell}
-
-
