@@ -1,1 +1,2 @@
+0|29|top|( hyprland/workspaces ) ( wlr/taskbar mpris )|( idle_inhibitor clock )|( cpu memory custom/gpuinfo ) ( pulseaudio pulseaudio#microphone ) ( tray battery ) ( custom/cliphist ) ( custom/power )
 1|29|top|( wlr/taskbar mpris )|( idle_inhibitor clock )|( cpu memory custom/gpuinfo ) ( pulseaudio pulseaudio#microphone ) ( tray battery ) ( custom/cliphist ) ( custom/power )
